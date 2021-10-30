@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'SisBro'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CF18BC43D6E74BC0BE5AD25527F2CFF4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E8D14D7052514B9A9C3F3BA233EA18F7 }}
           package: .
